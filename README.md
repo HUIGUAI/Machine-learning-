@@ -1,5 +1,5 @@
 # R语言二分类机器学习工具包  
-一套轻量化的二分类建模流程实现，包含`caret`、`glmnet`和`randomForest`等R包，支持：  
+一套轻量化的二分类建模流程实现，包含`caret`、`glmnet`和`xgboost`等R包，支持：  
 ✅ 决策树/Xgboost/lasso岭回归弹性网络/svm/单隐藏层神经网络/逻辑回归/lightgbm等经典算法  
 ✅ 包含数据预处理与特征标准化  
 ✅ 交叉验证超参数调优  
